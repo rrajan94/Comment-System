@@ -17,6 +17,7 @@
             <div class="col-md-12">
                 <u>
                     <h2>Comment & Reply using PHP & Ajax</h2>
+                    <!-- this is sample commemt -->
                 </u>
             </div>
         </div>
